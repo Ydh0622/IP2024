@@ -18,3 +18,10 @@ https://github.com/Ydh0622/IP2024/blob/main/Homework2.ipynb
 
 https://github.com/Ydh0622/IP2024/blob/main/homework3.ipynb
 
+# Homework 4
+![image](https://github.com/Ydh0622/IP2024/blob/main/coin.png)
+
+https://github.com/Ydh0622/IP2024/blob/main/homework4.py
+
+
+
