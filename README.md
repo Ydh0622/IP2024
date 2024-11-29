@@ -1,4 +1,4 @@
-![homeowork5](https://github.com/user-attachments/assets/8842126f-d2df-4da4-8b6b-5c8795859d04)# IP2024
+# IP2024
 
 # Homework 1
 
